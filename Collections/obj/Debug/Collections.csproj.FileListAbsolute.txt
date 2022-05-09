@@ -1,0 +1,14 @@
+D:\venko\QAautomation\Collection\Collections\Collections\bin\Debug\Collections.exe.config
+D:\venko\QAautomation\Collection\Collections\Collections\bin\Debug\Collections.exe
+D:\venko\QAautomation\Collection\Collections\Collections\bin\Debug\Collections.pdb
+D:\venko\QAautomation\Collection\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\venko\QAautomation\Collection\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\venko\QAautomation\Collection\Collections\Collections\obj\Debug\Collections.exe
+D:\venko\QAautomation\Collection\Collections\Collections\obj\Debug\Collections.pdb
+D:\venko\QAautomation\Collections\Collections\bin\Debug\Collections.exe.config
+D:\venko\QAautomation\Collections\Collections\bin\Debug\Collections.exe
+D:\venko\QAautomation\Collections\Collections\bin\Debug\Collections.pdb
+D:\venko\QAautomation\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\venko\QAautomation\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\venko\QAautomation\Collections\Collections\obj\Debug\Collections.exe
+D:\venko\QAautomation\Collections\Collections\obj\Debug\Collections.pdb
